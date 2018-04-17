@@ -1,0 +1,3 @@
+1.    Create a SQL Database and Table to hold the provided MOCK_DATA.
+2.    Using C# ASP MVC 4.x (not Core), create a page that reads from that database table and effectively displays all the MOCK_DATA.
+3.    Include Create, Edit and Delete buttons. Have each of them function without reloading the page.
